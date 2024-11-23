@@ -6,7 +6,7 @@
 #include <linux/slab.h>
 #include <linux/timekeeping.h>
 
-// Set your own username instead of 'elish'
+// SET YOUR OWN USERNAME INSTEAD OF ELISH OR SET THE LOCATION FOR THE LOG FILE
 #define LOG_FILE_PATH "/home/elish/usblog.txt"
 
 static void format_date(char *buffer, size_t size) {
