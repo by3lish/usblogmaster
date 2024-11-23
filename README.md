@@ -61,7 +61,7 @@ This will unload the module using `rmmod`.
 
 ## Usage
 
-Once the module is loaded, it will begin logging USB device events to the log file located at `/home/elish/usblog.txt`.
+Once the module is loaded, it will begin logging USB device events to the log file located at `/home/<yourusername>/usblog.txt`.
 
 The log entries will look like this:
 
@@ -87,4 +87,4 @@ This project is licensed under the GPL-2.0 License - see the [LICENSE](LICENSE) 
 
 ## Author
 
-- **by3lish**: [Your GitHub Profile](https://github.com/by3lish)
+- [By3lish](https://github.com/by3lish)
