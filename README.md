@@ -21,7 +21,7 @@ This is a simple Linux kernel module that logs USB device connection and removal
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/usb-logger.git
+git clone https://github.com/by3lish/usblogmaster.git
 cd usb-logger
 ```
 
